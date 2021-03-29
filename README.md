@@ -1,7 +1,4 @@
----
-title: "Getting and Cleaning Data Final Assignment"
-output: html_document
----
+## Getting and Cleaning Data Final Assignment
 This repository is for the final assignment in the "Getting and Cleaning Data" course. 
 
 ## Data

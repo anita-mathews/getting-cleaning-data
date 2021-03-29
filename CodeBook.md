@@ -1,7 +1,4 @@
----
-title: "Code Book for Getting and Cleaning Data Final Assignment"
-output: html_document
----
+## Code Book for Getting and Cleaning Data Final Assignment
 
 This code book describes the data, variables and the transformations performed in order to produce a tidy data set seen in "tidy_data_set.txt".
 
